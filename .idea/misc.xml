@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/drawable/background_logo.xml" value="0.2890625" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/drawable/background_news.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/drawable/background_sherlar.xml" value="0.2890625" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/drawable/ic_heard_outlined.xml" value="0.2890625" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/drawable/ic_heart_filled.xml" value="0.2890625" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/drawable/item_sherlar_uchun_rv.xml" value="0.2890625" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/drawable/selector_wishlist_item.xml" value="0.2890625" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout-land/activity_main.xml" value="0.2310405643738977" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout-v28/item_sherlar_uchun_rv.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout/activity_main.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout/activity_main2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout/fragment_asosiy_ekran_fragmenti.xml" value="0.33" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout/fragment_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout/fragment_ikkinchi.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout/fragment_sherlar.xml" value="0.25" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout/fragment_sms_jonatish_uchun.xml" value="0.25" />
+        <entry key="..\:/Users/husai/Desktop/SmsSherlar/app/src/main/res/layout/item_sherlar_uchun_rv.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
