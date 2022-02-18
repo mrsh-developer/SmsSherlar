@@ -52,8 +52,7 @@ class AdapterRV(
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): VH {
         return VH(
-            LayoutInflater.from(parent.context)
-                .inflate(R.layout.item_sherlar_uchun_rv, parent, false)
+            LayoutInflater.from(parent.context).inflate(R.layout.item_sherlar_uchun_rv, parent, false)
         )
     }
 
